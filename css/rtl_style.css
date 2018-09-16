@@ -5588,8 +5588,8 @@ fieldset[disabled] .form-control {
   -moz-border-radius: 3px;
   border-radius: 3px;
   margin: 10px 0 15px;
-  border-color: #ededed;
-  background-color: #fafafa;
+  border-color:transparent;
+  background-color: transparent;
   font-weight: 400;
 }
 
